@@ -9,6 +9,7 @@
 JaneShemanova/JaneShemanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img width="884" alt="Снимок экрана 2023-06-01 в 11 58 54" src="https://github.com/JaneShemanova/JaneShemanova/assets/125870695/171ee340-4a19-4d90-81f8-9fdf8b1e340c">
 
 Решение :
 Console.Write(«Введите количество элементов массива: «);
